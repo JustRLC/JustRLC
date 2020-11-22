@@ -1,4 +1,4 @@
-<img align="left" width="160" height="160" alt="Reece Cooper" src="https://avatars0.githubusercontent.com/u/13753564?s=460&u=598498a384dfd66baeb2bbcddc7156b42579d8e3&v=4"/>
+<img align="left" width="170" height="170" alt="Reece Cooper" src="https://raw.githubusercontent.com/justrlc/justrlc/main/IMG_0212.png"/>
 
 ### I'm [Reece Cooper][homepage]
 
